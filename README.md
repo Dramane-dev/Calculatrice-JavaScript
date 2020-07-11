@@ -1,4 +1,4 @@
-# calculatrice
+# Calculatrice in JavaScript
 
 Une petite calculatrice version Iphone réalisée en JavaScript.
 
