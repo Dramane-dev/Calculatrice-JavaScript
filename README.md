@@ -1,6 +1,6 @@
 # Calculatrice in JavaScript
 
-Une petite calculatrice version Iphone réalisée en JavaScript.
+Calculatrice version Iphone réalisée en JavaScript.
 
 Dans ce mini projet, j'ai utilisé flexblox et CSS Grid qui m'ont permis de réaliser les bouttons de la calculette. 
 Un peu de JavaScript pour donner de l'âme à la calculatrice et le tour est joué. 
